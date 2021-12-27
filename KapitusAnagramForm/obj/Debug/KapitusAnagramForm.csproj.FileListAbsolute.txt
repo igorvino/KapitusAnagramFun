@@ -1,0 +1,10 @@
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\bin\Debug\KapitusAnagramForm.exe.config
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\bin\Debug\KapitusAnagramForm.exe
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\bin\Debug\KapitusAnagramForm.pdb
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.csprojAssemblyReference.cache
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.Properties.Resources.resources
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.csproj.GenerateResource.cache
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.csproj.CoreCompileInputs.cache
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.exe
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.pdb
+C:\Users\Ivinogradov.EWC-CORP60041\source\repos\KapitusAnagramForm\obj\Debug\KapitusAnagramForm.frmAnagram.resources
